@@ -1,0 +1,19 @@
+.footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    color:white;
+    background: transparent;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: 'futura', sans-serif;
+  }
+
+  a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}

@@ -2,7 +2,7 @@ import * as THREE from 'three'
 import ThreeGlobe from 'three-globe'
 import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls'
 import {useEffect} from 'react'
-
+import Footer from './footer'
 import './App.css';
 import countries from './custom.geo.json'
 import map from './map.json'
@@ -152,7 +152,10 @@ animate()
 },[])
 
   return (
+    <>
     <canvas id = 'myGlobe' />
+    <Footer />
+    </>
   );
 }
 
