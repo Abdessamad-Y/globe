@@ -16,7 +16,49 @@
         "city":"Madrid",
         "lat":40.42218955562874,
         "lng":-3.703576027978066
+    },
+    {
+        "text":"FRA",
+        "size":1.0,
+        "country":"France",
+        "city":"Paris",
+        "lat":48.871417573889005, 
+        "lng":2.316130152678779
+    },
+    {
+        "text":"DEU",
+        "size":1.0,
+        "country":"Germany",
+        "city":"Berlin",
+        "lat":52.48576672850907,  
+        "lng":13.436737568288782
+    },
+    {
+        "text":"BEL",
+        "size":1.0,
+        "country":"Belgium",
+        "city":"Brussels",
+        "lat":50.82274332386863,   
+        "lng":4.383848450913494
+    },
+    
+    {
+        "text":"USA",
+        "size":1.0,
+        "country":"United States of America",
+        "city":"New York",
+        "lat":40.694025810438994, 
+        "lng":-73.92614951878339
+    },
+    {
+        "text":"MEX",
+        "size":1.0,
+        "country":"Mexico",
+        "city":"Mexico city",
+        "lat":19.297664766232323,  
+        "lng":-99.5207117130429
     }
+    
 ]
 
 }
