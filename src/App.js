@@ -69,7 +69,7 @@ const onWindowResize = () =>{
   camera.updateProjectionMatrix()
   windowHalfX = window.innerWidth / 1.5
   windowHalfY = window.innerHeight / 1.5
-  renderer.setSize(windowHalfX, windowHalfY)
+  renderer.setSize(window.innerWidth, window.innerHeight)
 }
 
 const onMouseMove = (event) =>{
@@ -152,9 +152,7 @@ animate()
 },[])
 
   return (
-    
     <canvas id = 'myGlobe' />
-    
   );
 }
 

@@ -10,6 +10,46 @@
         "lng":-1.906577893433322 
     },
     {
+        "text":"DZA",
+        "size":1.0,
+        "country":"Algeria",
+        "city":"Algiers",
+        "lat":36.71850872889877, 
+        "lng":3.085350678260956
+    },
+    {
+        "text":"TUN",
+        "size":1.0,
+        "country":"Tunisia",
+        "city":"Tunis",
+        "lat":36.748454137288256, 
+        "lng":10.20849151793175
+    },
+    {
+        "text":"EGY",
+        "size":1.0,
+        "country":"Egypt",
+        "city":"Cairo",
+        "lat":30.03787365408214,  
+        "lng":31.27997662042676
+    },
+    {
+        "text":"SAU",
+        "size":1.0,
+        "country":"Saudi Arabia",
+        "city":"Riyadh",
+        "lat":24.59461783878312,  
+        "lng":46.683314325749215
+    },
+    {
+        "text":"IND",
+        "size":1.0,
+        "country":"India",
+        "city":"Mumbai",
+        "lat":19.04046987518502,  
+        "lng":72.87787830195619
+    },
+    {
         "text":"ESP",
         "size":1.0,
         "country":"Spain",
@@ -57,6 +97,54 @@
         "city":"Mexico city",
         "lat":19.297664766232323,  
         "lng":-99.5207117130429
+    },
+    {
+        "text":"CHE",
+        "size":1.0,
+        "country":"Switzerland",
+        "city":"Zurich",
+        "lat":47.367324913044236, 
+        "lng":8.59248311961562
+    },
+    {
+        "text":"ITA",
+        "size":1.0,
+        "country":"Italy",
+        "city":"Milan",
+        "lat":45.41467226338937, 
+        "lng":9.203841013847784
+    },
+    {
+        "text":"JPN",
+        "size":1.0,
+        "country":"Japan",
+        "city":"Tokyo",
+        "lat":35.82070006486582, 
+        "lng":139.72235507501574 
+    },
+    {
+        "text":"KOR",
+        "size":1.0,
+        "country":"Korea",
+        "city":"Seoul",
+        "lat":37.48954877277416,  
+        "lng":127.05492352064623
+    },
+    {
+        "text":"GBR",
+        "size":1.0,
+        "country":"United Kingdom of Great Britain and Northern Ireland ",
+        "city":"London",
+        "lat":51.38287956152532,
+        "lng": 0.07168611019462225
+    },
+    {
+        "text":"GBR",
+        "size":1.0,
+        "country":"United Kingdom of Great Britain and Northern Ireland ",
+        "city":"Glaskow",
+        "lat":55.84280706740127,  
+        "lng":-4.295648924943381
     }
     
 ]
