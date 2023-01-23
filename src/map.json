@@ -1,0 +1,22 @@
+{
+    "type":"Map",
+    "Co-ordinates" : [
+        {
+        "text":"MAR",
+        "size":1.0,
+        "Country":"Morocco",
+        "city":"Oujda",
+        "lat":34.67861817779646,
+        "lng":-1.906577893433322 
+    },
+    {
+        "text":"ESP",
+        "size":1.0,
+        "Country":"Spain",
+        "City":"Madrid",
+        "lat":40.42218955562874,
+        "lng":-3.703576027978066
+    }
+]
+
+}
