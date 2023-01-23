@@ -13,7 +13,20 @@
     font-family: 'futura', sans-serif;
   }
 
-  a, a:hover, a:focus, a:active {
+  a,  a:focus, a:active {
     text-decoration: none;
     color: inherit;
+}
+
+@keyframes bounce {
+  0%   { transform: translateX(0); }
+  50%  { transform: translateX(-50px); }
+  100% { transform: translateX(0); }
+}
+a:hover{
+  text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    animation-name: bounce;
+
 }
