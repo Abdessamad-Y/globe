@@ -1,151 +1,139 @@
 {
-    "type" : "PullRequest",
-    "pulls":[
-        {
-            "type":"pull",
-            "order" : 1,
-            "from" : "MAR",
-            "to":"ESP",
-            "startLat":"34.67861817779646",
-            "startLng":"-1.906577893433322",
-            "endLat":"40.42218955562874",
-            "endLng":"-3.703576027978066",
-            "arcAlt":0.05
+  "type": "PullRequest",
+  "pulls": [
+    {
+      "type": "pull",
+      "order": 1,
+      "from": "MAR",
+      "to": "ESP",
+      "startLat": "34.67861817779646",
+      "startLng": "-1.906577893433322",
+      "endLat": "40.42218955562874",
+      "endLng": "-3.703576027978066",
+      "arcAlt": 0.05
+    },
+    {
+      "type": "pull",
+      "order": 1,
+      "from": "DZA",
+      "to": "TUN",
+      "startLat": "36.71850872889877",
+      "startLng": "3.085350678260956",
+      "endLat": "36.748454137288256",
+      "endLng": "10.20849151793175",
+      "arcAlt": 0.05
+    },
+    {
+      "type": "pull",
+      "order": 1,
+      "from": "EGY",
+      "to": "TUN",
+      "startLat": "30.03787365408214",
+      "startLng": "31.27997662042676",
+      "endLat": "36.748454137288256",
+      "endLng": "10.20849151793175",
+      "arcAlt": 0.05
+    },
+    {
+      "type": "pull",
+      "order": 1,
+      "from": "EGY",
+      "to": "SAU",
+      "startLat": "30.03787365408214",
+      "startLng": "31.27997662042676",
+      "endLat": "24.59461783878312",
+      "endLng": "46.683314325749215",
+      "arcAlt": 0.05
+    },
+    {
+      "type": "pull",
+      "order": 1,
+      "from": "SAU",
+      "to": "IND",
+      "startLat": "24.59461783878312",
+      "startLng": "46.683314325749215",
+      "endLat": "19.04046987518502",
+      "endLng": "72.87787830195619",
+      "arcAlt": 0.05
+    },
 
-        },
-        {
-            "type":"pull",
-            "order" : 1,
-            "from" : "DZA",
-            "to":"TUN",
-            "startLat":"36.71850872889877",
-            "startLng":"3.085350678260956",
-            "endLat":"36.748454137288256",
-            "endLng":"10.20849151793175",
-            "arcAlt":0.05
+    {
+      "type": "pull",
+      "order": 2,
+      "from": "FRA",
+      "to": "USA",
+      "startLat": "48.871417573889005",
+      "startLng": "2.316130152678779",
+      "endLat": "40.694025810438994",
+      "endLng": "-73.92614951878339",
+      "arcAlt": 0.05
+    },
+    {
+      "type": "pull",
+      "order": 3,
+      "from": "DEU",
+      "to": "BEL",
+      "startLat": "52.48576672850907",
+      "startLng": "13.436737568288782",
+      "endLat": "50.82274332386863",
+      "endLng": "4.383848450913494",
+      "arcAlt": 0.05
+    },
+    {
+      "type": "pull",
+      "order": 4,
+      "from": "FRA",
+      "to": "USA",
+      "startLat": "48.871417573889005",
+      "startLng": "2.316130152678779",
+      "endLat": "40.694025810438994",
+      "endLng": "-73.92614951878339",
+      "arcAlt": 0.05
+    },
 
-        },
-        {
-            "type":"pull",
-            "order" : 1,
-            "from" : "EGY",
-            "to":"TUN",
-            "startLat":"30.03787365408214",
-            "startLng":"31.27997662042676",
-            "endLat":"36.748454137288256",
-            "endLng":"10.20849151793175",
-            "arcAlt":0.05
-
-        },
-        {
-            "type":"pull",
-            "order" : 1,
-            "from" : "EGY",
-            "to":"SAU",
-            "startLat":"30.03787365408214",
-            "startLng":"31.27997662042676",
-            "endLat":"24.59461783878312",
-            "endLng":"46.683314325749215",
-            "arcAlt":0.05
-
-        },
-        {
-            "type":"pull",
-            "order" : 1,
-            "from" : "SAU",
-            "to":"IND",
-            "startLat":"24.59461783878312",
-            "startLng":"46.683314325749215",
-            "endLat":"19.04046987518502",
-            "endLng":"72.87787830195619",
-            "arcAlt":0.05
-
-        },
-
-        {
-            "type":"pull",
-            "order" : 2,
-            "from" : "FRA",
-            "to":"USA",
-            "startLat":"48.871417573889005",
-            "startLng":"2.316130152678779",
-            "endLat":"40.694025810438994",
-            "endLng":"-73.92614951878339",
-            "arcAlt":0.05
-
-        },{
-            "type":"pull",
-            "order" : 3,
-            "from" : "DEU",
-            "to":"BEL",
-            "startLat":"52.48576672850907",
-            "startLng":"13.436737568288782",
-            "endLat":"50.82274332386863",
-            "endLng":"4.383848450913494",
-            "arcAlt":0.05
-
-        },
-        {
-            "type":"pull",
-            "order" : 4,
-            "from" : "FRA",
-            "to":"USA",
-            "startLat":"48.871417573889005",
-            "startLng":"2.316130152678779",
-            "endLat":"40.694025810438994",
-            "endLng":"-73.92614951878339",
-            "arcAlt":0.05
-
-        },
-
-        {
-            "type":"pull",
-            "order" : 5,
-            "from" : "USA",
-            "to":"MEX",
-            "endLat":"19.297664766232323",
-            "endLng":"-99.5207117130429",
-            "startLat":"40.694025810438994",
-            "startLng":"-73.92614951878339",
-            "arcAlt":0.05
-
-        },
-        {
-            "type":"pull",
-            "order" : 5,
-            "from" : "ITA",
-            "to":"CHE",
-            "endLat":"47.367324913044236",
-            "endLng":"8.59248311961562",
-            "startLat":"45.41467226338937",
-            "startLng":"9.203841013847784",
-            "arcAlt":0.05
-
-        },
-        {
-            "type":"pull",
-            "order" : 1,
-            "from" : "JPN",
-            "to":"KOR",
-            "startLat":"35.82070006486582",
-            "startLng":"139.72235507501574",
-            "endLat":"37.48954877277416",
-            "endLng":"127.05492352064623",
-            "arcAlt":0.05
-
-        },
-        {
-            "type":"pull",
-            "order" : 1,
-            "from" : "GBR",
-            "to":"GBR",
-            "startLat":"51.38287956152532",
-            "startLng":"0.07168611019462225",
-            "endLat":"55.84280706740127",
-            "endLng":"-4.295648924943381",
-            "arcAlt":0.05
-
-        }
-        
-    ]
+    {
+      "type": "pull",
+      "order": 5,
+      "from": "USA",
+      "to": "MEX",
+      "endLat": "19.297664766232323",
+      "endLng": "-99.5207117130429",
+      "startLat": "40.694025810438994",
+      "startLng": "-73.92614951878339",
+      "arcAlt": 0.05
+    },
+    {
+      "type": "pull",
+      "order": 5,
+      "from": "ITA",
+      "to": "CHE",
+      "endLat": "47.367324913044236",
+      "endLng": "8.59248311961562",
+      "startLat": "45.41467226338937",
+      "startLng": "9.203841013847784",
+      "arcAlt": 0.05
+    },
+    {
+      "type": "pull",
+      "order": 1,
+      "from": "JPN",
+      "to": "KOR",
+      "startLat": "35.82070006486582",
+      "startLng": "139.72235507501574",
+      "endLat": "37.48954877277416",
+      "endLng": "127.05492352064623",
+      "arcAlt": 0.05
+    },
+    {
+      "type": "pull",
+      "order": 1,
+      "from": "GBR",
+      "to": "GBR",
+      "startLat": "51.38287956152532",
+      "startLng": "0.07168611019462225",
+      "endLat": "55.84280706740127",
+      "endLng": "-4.295648924943381",
+      "arcAlt": 0.05
+    }
+  ]
 }
